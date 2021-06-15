@@ -306,3 +306,10 @@ ggplot(data,aes(x=x,y=y)) +
   geom_point(size=2)
 
 ggplot(protein,aes(x=RedMeat,Fish)) +geom_point(size=2)
+
+
+#Visualization Before Analysis
+
+data (anscombe)
+
+
